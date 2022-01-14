@@ -1,4 +1,4 @@
-**Agile* is a small scientific computing laboratory. We help scientists get stuff done, mostly with Python.**
+**Agile is a small scientific computing laboratory. We help scientists get stuff done, mostly with Python.**
 
 Want to see more scientists doing amazing things with data in your organization? Talk to us about how, or [explore our website](https://www.agilescientific.com/).
 
