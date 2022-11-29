@@ -1,4 +1,4 @@
-**Agile is a small scientific computing laboratory. We help scientists get stuff done, mostly with Python.**
+**Agile was a small scientific computing laboratory. It closed in 2022. Its repos will be maintained by the people listed below, and probably eventually forked to somewhere new.**
 
 Want to see more scientists doing amazing things with data in your organization? Talk to us about how, or [explore our website](https://www.agilescientific.com/).
 
